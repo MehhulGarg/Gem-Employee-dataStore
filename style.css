@@ -1,0 +1,35 @@
+.centered {
+    left: 50%;
+    text-align: center;
+    border: 2px solid black;
+    height: 500px;
+    padding: 2rem;
+    background-color:#5CDB95;
+}
+/* .container-fluid{
+    border: 2px solid black;
+} */
+.input-item{
+    /* border: 2px solid black; */
+    margin: 1rem;
+    padding: 0.2rem;
+}
+.login-label{
+    margin-right: 2rem;
+}
+body{
+    background-color: #5CDB95;
+}
+.form{
+    padding: 2rem;
+    background-color: #5CDB95;
+}
+.inner{
+    width: 700px;
+    box-sizing: border-box;
+    background-color: #379683;
+    box-shadow: #05386B;
+}
+#error-message{
+    color: #d30505;
+}
